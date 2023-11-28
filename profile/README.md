@@ -1,8 +1,6 @@
-# XWing AI
-
-The official repository for [XWingAI][app]
-
 ![xwing logo](https://xwing.app/img/logo.svg)
+
+The official home of [XWingAI][app]
 
 [XWingAI](https://xwing.app)
 
